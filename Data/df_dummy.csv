@@ -1,0 +1,101 @@
+hotelName,room,guests,adults,childrenAges,roomCosts,finalCost,totalDiscount,type,marketingText,lenght,startDate,endDate,offerNames
+Hotel_3,Room_47,3.0,2,[],168,52,19,"accommodationProductDiscount,supplementDiscount",20% Accomodation + 40% Half Board,10,2023-09-20,2023-09-30,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_7,Room_92,10.0,4,"['Young Child', 'Child']",158,189,33,",supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,14,2023-11-01,2023-11-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_24,Room_233,2.0,1,[],195,117,11,accommodationProductDiscount,20% Accomodation + 40% Half Board,4,2024-09-01,2024-09-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_3,Room_46,5.0,4,[],176,138,44,"accommodationProductDiscount,supplementDiscount",20% Accomodation + 40% Half Board,4,2023-10-01,2023-10-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_2,Room_41,3.0,2,[],185,86,38,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,14,2024-06-01,2024-06-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_7,Room_83,9.0,4,['Child'],75,219,29,"accommodationProductDiscount,groundServiceDiscount,supplementDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,7,2023-11-01,2023-11-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_10,Room_116,2.0,1,[],287,254,19,"accommodationProductDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,14,2024-09-01,2024-09-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_22,Room_213,6.0,3,[],70,248,44,"accommodationProductDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,14,2024-08-01,2024-08-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_5,Room_78,7.0,1,"['Young Child', 'Child']",299,174,44,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,7,2023-12-01,2023-12-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_3,Room_44,3.0,4,[],175,65,4,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,14,2024-03-01,2024-03-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_8,Room_104,2.0,2,['Child'],273,243,10,"accommodationProductDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,7,2024-03-01,2024-03-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_4,Room_66,2.0,1,['Child'],169,87,26,"accommodationProductDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,7,2023-10-01,2023-10-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_1,Room_27,9.0,2,"['Young Child', 'Child']",90,81,43,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,4,2023-10-01,2023-10-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_8,Room_95,2.0,3,['Child'],295,253,22,"accommodationProductDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,14,2023-11-01,2023-11-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_22,Room_217,4.0,1,[],92,178,41,"accommodationProductDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,10,2024-08-01,2024-08-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_26,Room_250,18.0,4,[],290,125,12,"accommodationProductDiscount,groundServiceDiscount,groundServiceDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,7,2023-12-01,2023-12-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_11,Room_131,6.0,1,[],290,257,45,",mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,10,2023-11-01,2023-11-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_14,Room_150,4.0,1,"['Child', 'Teenager']",61,173,25,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,14,2024-07-01,2024-07-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_23,Room_227,3.0,3,['Child'],98,293,17,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,14,2024-03-01,2024-03-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_11,Room_127,2.0,2,[],172,220,35,"accommodationProductDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,4,2024-07-01,2024-07-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_15,Room_156,4.0,1,['Child'],287,67,29,"accommodationProductDiscount,supplementDiscount,transferDiscount",20% Accomodation + 40% Half Board,7,2023-12-01,2023-12-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_26,Room_248,3.0,2,['Child'],79,74,43,",supplementDiscount,transferDiscount,",20% Accomodation + 40% Half Board,7,2024-02-01,2024-02-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_25,Room_246,4.0,1,[],92,230,27,",mealPlanDiscount",20% Accomodation + 40% Half Board,10,2024-03-01,2024-03-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_4,Room_40,2.0,3,[],283,119,42,accommodationProductDiscount,20% Accomodation + 40% Half Board,10,2024-02-01,2024-02-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_8,Room_99,6.0,1,"['Young Child', 'Child']",217,88,17,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,14,2024-06-01,2024-06-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_26,Room_251,3.0,4,['Child'],124,128,21,"accommodationProductDiscount,,transferDiscount,",20% Accomodation + 40% Half Board,10,2024-01-01,2024-01-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_18,Room_190,2.0,1,[],289,243,7,"accommodationProductDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,7,2024-01-01,2024-01-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_14,Room_38,3.0,2,['Child'],224,243,47,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,7,2023-12-01,2023-12-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_20,Room_167,4.0,3,['Child'],50,121,14,",,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,10,2024-01-01,2024-01-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_18,Room_188,6.0,2,[],233,73,11,"accommodationProductDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,10,2024-03-01,2024-03-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_3,Room_44,3.0,4,[],163,135,19,",,transferDiscount",20% Accomodation + 40% Half Board,10,2024-01-01,2024-01-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_14,Room_38,4.0,3,"['Child', 'Teenager']",101,270,47,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,14,2024-05-01,2024-05-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_1,Room_27,9.0,2,"['Young Child', 'Child']",151,213,20,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,4,2024-07-01,2024-07-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_5,Room_74,3.0,3,['Young Child'],193,286,15,",supplementDiscount",20% Accomodation + 40% Half Board,4,2024-01-01,2024-01-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_5,Room_79,11.0,3,"['Young Child', 'Child']",60,190,11,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,7,2023-12-01,2023-12-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_13,Room_141,4.0,2,[],263,246,19,accommodationProductDiscount,20% Accomodation + 40% Half Board,4,2024-08-01,2024-08-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_24,Room_238,6.0,4,[],138,211,35,accommodationProductDiscount,20% Accomodation + 40% Half Board,10,2024-07-01,2024-07-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_4,Room_63,2.0,2,[],88,150,13,accommodationProductDiscount,20% Accomodation + 40% Half Board,7,2024-05-01,2024-05-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_22,Room_53,2.0,2,[],79,211,7,"accommodationProductDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,10,2023-11-01,2023-11-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_23,Room_218,2.0,3,[],283,175,45,"accommodationProductDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,4,2023-10-01,2023-10-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_18,Room_187,6.0,3,[],137,187,30,accommodationProductDiscount,20% Accomodation + 40% Half Board,4,2024-04-01,2024-04-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_22,Room_216,4.0,1,[],96,190,40,"accommodationProductDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,14,2024-07-01,2024-07-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_1,Room_29,7.0,4,"['Young Child', 'Child']",294,148,37,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,14,2024-09-01,2024-09-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_26,Room_250,18.0,2,[],115,216,29,"accommodationProductDiscount,groundServiceDiscount,groundServiceDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,4,2023-11-01,2023-11-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_1,Room_27,8.0,4,"['Young Child', 'Child']",162,205,44,",supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,10,2024-02-01,2024-02-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_1,Room_17,14.0,4,"['Young Child', 'Child']",274,73,3,",supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,4,2024-04-01,2024-04-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_2,Room_43,7.0,1,[],164,58,15,"accommodationProductDiscount,groundServiceDiscount,groundServiceDiscount,supplementDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,14,2024-05-01,2024-05-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_14,Room_151,7.0,4,['Child'],189,228,45,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,14,2024-04-01,2024-04-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_11,Room_125,2.0,4,[],92,222,21,"accommodationProductDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,7,2024-08-01,2024-08-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_8,Room_95,2.0,4,['Child'],295,268,8,"accommodationProductDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,10,2024-02-01,2024-02-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_25,Room_244,2.0,4,[],211,64,39,"accommodationProductDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,4,2023-09-26,2023-09-30,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_26,Room_251,4.0,4,"['Child', 'Teenager']",134,291,7,",supplementDiscount,transferDiscount,",20% Accomodation + 40% Half Board,10,2023-12-01,2023-12-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_23,Room_227,3.0,1,['Child'],275,288,42,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,14,2023-12-01,2023-12-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_20,Room_201,7.0,3,['Child'],244,77,45,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,7,2023-11-01,2023-11-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_1,Room_24,7.0,1,"['Young Child', 'Child']",180,101,49,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,14,2024-06-01,2024-06-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_4,Room_36,4.0,4,['Child'],235,231,18,"accommodationProductDiscount,transferDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,4,2024-07-01,2024-07-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_21,Room_212,5.0,3,['Child'],97,230,46,"accommodationProductDiscount,,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,10,2024-08-01,2024-08-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_11,Room_130,6.0,2,[],166,297,5,",mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,4,2023-11-01,2023-11-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_3,Room_47,3.0,3,[],171,208,11,"accommodationProductDiscount,supplementDiscount",20% Accomodation + 40% Half Board,7,2023-10-01,2023-10-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_11,Room_132,5.0,4,[],274,212,24,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,10,2023-12-01,2023-12-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_7,Room_87,4.0,3,"['Young Child', 'Child']",296,117,1,",supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,10,2023-10-01,2023-10-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_14,Room_150,3.0,1,['Child'],77,257,5,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,7,2023-12-01,2023-12-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_1,Room_30,5.0,2,"['Young Child', 'Child']",100,193,45,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,7,2023-10-01,2023-10-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_17,Room_180,2.0,2,[],292,210,34,"accommodationProductDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,10,2023-09-20,2023-09-30,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_10,Room_117,2.0,3,[],118,294,45,,20% Accomodation + 40% Half Board,7,2023-09-23,2023-09-30,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_17,Room_175,2.0,2,[],136,295,11,"accommodationProductDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,14,2023-10-01,2023-10-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_26,Room_247,6.0,3,"['Child', 'Teenager']",285,254,11,",supplementDiscount,transferDiscount,",20% Accomodation + 40% Half Board,7,2023-12-01,2023-12-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_7,Room_83,11.0,1,"['Young Child', 'Child']",59,115,21,"accommodationProductDiscount,groundServiceDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,10,2024-02-01,2024-02-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_8,Room_105,8.0,2,"['Young Child', 'Child']",188,146,47,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,10,2023-09-20,2023-09-30,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_18,Room_34,4.0,1,[],269,254,1,"accommodationProductDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,4,2024-07-01,2024-07-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_5,Room_74,5.0,3,"['Young Child', 'Child']",74,116,40,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,10,2023-10-01,2023-10-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_22,Room_217,4.0,3,[],233,230,24,accommodationProductDiscount,20% Accomodation + 40% Half Board,4,2024-03-01,2024-03-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_23,Room_219,3.0,2,['Child'],273,175,3,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,10,2023-12-01,2023-12-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_7,Room_89,5.0,2,"['Young Child', 'Child']",239,209,7,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,7,2024-08-01,2024-08-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_5,Room_73,5.0,2,"['Young Child', 'Child']",123,97,19,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,4,2023-10-01,2023-10-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_7,Room_93,9.0,1,"['Young Child', 'Child', 'Teenager']",51,215,5,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,7,2024-04-01,2024-04-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_19,Room_193,2.0,3,[],295,143,48,accommodationProductDiscount,20% Accomodation + 40% Half Board,10,2024-01-01,2024-01-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_3,Room_45,3.0,4,[],90,54,46,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,14,2024-04-01,2024-04-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_10,Room_112,2.0,2,[],274,236,47,"accommodationProductDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,4,2024-02-01,2024-02-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_18,Room_188,6.0,1,[],252,163,32,"accommodationProductDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,10,2024-01-01,2024-01-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_21,Room_209,5.0,1,['Child'],108,212,14,"accommodationProductDiscount,,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,7,2024-03-01,2024-03-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_1,Room_13,7.0,2,"['Young Child', 'Child']",70,115,18,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,10,2023-10-01,2023-10-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_3,Room_54,7.0,3,[],109,218,35,"accommodationProductDiscount,groundServiceDiscount,groundServiceDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,14,2024-07-01,2024-07-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_5,Room_71,6.0,4,['Young Child'],65,111,0,"accommodationProductDiscount,supplementDiscount",20% Accomodation + 40% Half Board,4,2023-11-01,2023-11-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_7,Room_90,4.0,4,"['Young Child', 'Child']",219,69,45,",supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,14,2023-11-01,2023-11-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_2,Room_43,7.0,2,[],231,149,43,"accommodationProductDiscount,groundServiceDiscount,groundServiceDiscount,supplementDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,7,2024-04-01,2024-04-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_5,Room_71,5.0,2,['Young Child'],220,90,2,",supplementDiscount",20% Accomodation + 40% Half Board,14,2024-01-01,2024-01-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_25,Room_246,4.0,1,[],199,147,22,",mealPlanDiscount",20% Accomodation + 40% Half Board,7,2023-12-01,2023-12-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_16,Room_167,4.0,4,"['Young Child', 'Child']",293,167,47,"accommodationProductDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,4,2024-08-01,2024-08-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_5,Room_23,5.0,3,"['Young Child', 'Child']",75,167,22,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,4,2024-08-01,2024-08-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_24,Room_232,15.0,3,"['Child', 'Teenager']",109,206,4,"accommodationProductDiscount,groundServiceDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,7,2023-12-01,2023-12-08,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_4,Room_65,4.0,2,['Child'],90,259,49,"accommodationProductDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,10,2023-09-20,2023-09-30,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_11,Room_126,3.0,1,[],84,250,40,"accommodationProductDiscount,supplementDiscount",20% Accomodation + 40% Half Board,7,2023-09-23,2023-09-30,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_20,Room_167,4.0,4,['Child'],215,175,14,"accommodationProductDiscount,groundServiceDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,14,2024-05-01,2024-05-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_26,Room_253,5.0,2,['Child'],195,243,43,",supplementDiscount,transferDiscount,",20% Accomodation + 40% Half Board,4,2024-02-01,2024-02-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_3,Room_51,5.0,4,[],190,199,38,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount",20% Accomodation + 40% Half Board,10,2023-11-01,2023-11-11,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_14,Room_40,3.0,1,['Child'],277,139,18,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,14,2024-01-01,2024-01-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_18,Room_102,2.0,1,[],205,62,49,accommodationProductDiscount,20% Accomodation + 40% Half Board,14,2024-04-01,2024-04-15,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_11,Room_131,6.0,4,[],52,61,44,",mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,4,2023-11-01,2023-11-05,Oferta 1 + Oferta 2 + Oferta 3
+Hotel_14,Room_151,8.0,1,"['Child', 'Teenager']",162,97,45,"accommodationProductDiscount,supplementDiscount,mealPlanDiscount,transferDiscount",20% Accomodation + 40% Half Board,7,2023-09-23,2023-09-30,Oferta 1 + Oferta 2 + Oferta 3
